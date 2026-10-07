@@ -1,0 +1,6 @@
+{
+  "name": "Runas VIP – Discoteca en Cusco",
+  "description": "Reserva tu mesa en Runas VIP (Calle Concevidayoc 171, Cusco). Licor 100% original, pase digital por WhatsApp, sin jaladores y promociones exclusivas antes de las 10 PM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
